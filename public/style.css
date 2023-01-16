@@ -1,5 +1,8 @@
 body {
-  background-color: white;
+  background-color: black;
+  background-image: url("resources/background_stars.gif");
+  background-size: cover;
   color: black;
   font-family: Verdana;
 }
+
